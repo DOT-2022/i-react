@@ -1,0 +1,7 @@
+.input-box {
+    padding: 10px 5px;
+    border: 1px solid gray;
+    font-size: larger;
+    width: 100%;
+    flex: 4;
+}

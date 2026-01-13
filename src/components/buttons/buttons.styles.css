@@ -1,0 +1,19 @@
+.button-container {
+    border-radius: 25px;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 300;
+    font-size: larger;
+}
+
+.primary {
+    cursor: pointer;
+    padding: 10px 20px;
+    text-transform: capitalize !important;
+    width: 100%;
+    background-color: #ff7300;
+}
+
+.primary:hover {
+    background-color: #e85804;
+}
